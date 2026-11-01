@@ -1,10 +1,11 @@
+Proyecto-biblioteca-escolar
 
- Biblioteca escolar con ejemplares irregulares  
-**Docente: roberto rosario cruz
+Facultad de Ciencias y Tecnologías de la Informacion
 
----
+Alumno: Victor Cristiano Alvarez Garcia
+Docente: Roberto Rosario cruz
 
-## 1. INTRODUCCIÓN
+1. INTRODUCCIÓN
 
 El presente proyecto consiste en desarrollar un sistema para administrar una biblioteca escolar mediante el lenguaje de programación C#.
 
@@ -14,7 +15,7 @@ El sistema tendrá como propósito organizar la información de los libros, cono
 
 Durante el primer día de trabajo se realizará el análisis del problema y la comparación de tres estructuras de datos que podrían utilizarse para desarrollar el sistema: arreglo escalonado, List<int[]> y List<Titulo>.
 
-## 2. PLANTEAMIENTO DEL PROBLEMA
+ 2. PLANTEAMIENTO DEL PROBLEMA
 
 En una biblioteca escolar existen libros con diferentes cantidades de ejemplares disponibles. Esto puede dificultar la organización y el control de los préstamos si no se utiliza una estructura de datos adecuada.
 
